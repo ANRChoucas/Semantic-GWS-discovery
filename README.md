@@ -33,16 +33,3 @@ We underline that for the annotations of the input/output parameters we have ann
 For further information, please contact Meriem HALILALI (<meriem-sabrine.halilali@univ-pau.fr>)
 
 
-
-
-
-
-
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 823bdabfb8a8e66eeab762f93fb4b3857bccf03e
-=======
-# Semantic-GWS-discovery
->>>>>>> 303d051cd87d1ae23a4412a78e335a4c34a47adf
