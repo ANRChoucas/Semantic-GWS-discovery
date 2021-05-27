@@ -1,4 +1,3 @@
-=======
 # Semantic-GWS-discovery
 
 ## Introduction
