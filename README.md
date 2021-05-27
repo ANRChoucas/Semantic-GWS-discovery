@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 =======
 # Semantic-GWS-discovery
->>>>>>> 823bdabfb8a8e66eeab762f93fb4b3857bccf03e
+
 ## Introduction
 
 This project has been created  in the context of the Choucas project (<http://choucas.ign.fr/>) funded by the French National Research Agency (ANR) with the purpose of heterogeneous data integration and spatial reasoning for localizing victims in mountain area. The objective of the project presented here is to propose an approach to Geospatial Web Service (GWS) discovery through semantic annotation of Web Processing service (WPS) service descriptions.
