@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project has been created  in the context of the Choucas project (<http://choucas.ign.fr/>) funded by the French National Research Agency (ANR) with the purpose of heterogeneous data integration and spatial reasoning for localizing victims in mountain area. The objective of the project presented here is to propose an approach to Geospatial Web Service (GWS) discovery through semantic annotation of Web Processing service (WPS) service descriptions.
+This project has been created  in the context of the Choucas project (<http://choucas.ign.fr/>) funded by the French National Research Agency (ANR) with the purpose of heterogeneous data integration and spatial reasoning for localizing victims in mountain area. The objective of the project presented here is to propose an approach to Geospatial Web Service (GWS) discovery through semantic annotation of Web Processing service (WPS) service descriptions. In the context of this work, a manuscript has been submitted for consideration as an article in "Computers & Geosciences": "Halilali, M.S., Gouardères, E., Gaio, M., Devin, F. Geospatial Web Services Discovery through Semantic Annotation of WPS".
 
 ## Machine configuration
 To implement the proposed methods, we developed a system for SWG discovery implemented in ***Java***.  All the experiments were executed on a machine with the configuration bellow : 
