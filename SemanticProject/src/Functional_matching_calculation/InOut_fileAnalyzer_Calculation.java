@@ -19,7 +19,7 @@ public class InOut_fileAnalyzer_Calculation {
 	// A method to parse the functional description file and retrieve the semantic
 	// annotations related to inputs and outputs of the service and calculate the
 	// semantic similarity for the searched inputs and outputs.
-	public static List<String> découverteRequete(String ServiceIdentifier, List<String> ConceptsRequeteIN,
+	public static List<String> RequestDiscovery(String ServiceIdentifier, List<String> ConceptsRequeteIN,
 			List<String> ConceptsRequeteOut) throws ParserConfigurationException, SAXException, IOException {
 
 		String ServicePath = null;

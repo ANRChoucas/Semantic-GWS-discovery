@@ -590,7 +590,7 @@ public class Interface extends JFrame {
 			for (List<String> elem : list_sim_functionality_accepted) {
 
 				try {
-					List<String> resPartiel = InOut_fileAnalyzer_Calculation.découverteRequete(elem.get(2),
+					List<String> resPartiel = InOut_fileAnalyzer_Calculation.RequestDiscovery(elem.get(2),
 							list_ConceptIn_Requete, list_ConceptOut_Requete);
 					simFunctional = Float.valueOf(resPartiel.get(3));
 					if (simFunctional >= Threshold) {
